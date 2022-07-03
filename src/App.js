@@ -22,7 +22,7 @@ const App = () => {
     })
     return () => cancel()
   }, [currentPageUrl])
-  
+  if (loading) return "Loading..."
   const gotoNextPage = () => {
     setCurrentPageUrl(nextPageUrl)
   }
