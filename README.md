@@ -1,6 +1,7 @@
 # PokémonApi Application With React
 
-made using The RESTful Pokémon API by [PokéApi](https://pokeapi.co/).
+Made using The RESTful Pokémon API by [PokéApi](https://pokeapi.co/).
+Following this [Youtube Video](https://youtu.be/o3ZUc7zH8BE)
 
 ## Made with Create React App
 
